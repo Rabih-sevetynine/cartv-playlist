@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="LBCInternational.lb.backup" tvg-name="LBC International" tvg-logo="https://i.imgur.com/h26xtUv.png" group-title="Lebanon - Backup",LBC International (Backup)
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 tvg-id="AlJadeed.lb.backup" tvg-name="Al Jadeed" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="Lebanon - Backup",Al Jadeed (Dailymotion proxy - Backup)
+https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/aljadeedtv
+#EXTINF:-1 tvg-id="AlJadeed.lb.backup2" tvg-name="Al Jadeed" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="Lebanon - Backup",Al Jadeed (Backup 2)
+http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
